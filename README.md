@@ -1,6 +1,7 @@
 # Customer_Complaints
 This is a project to demonstrate proficiency in Natural Language Processing (NLP).
 <br />
+<br />
 -Used Spark to create a dataframe from a Customer Complaints dataset from Kaggle (https://www.kaggle.com/datasets/shashwatwork/consume-complaints-dataset-fo-nlp).  <br>
 ![image](https://github.com/KotR9001/Customer_Complaints/assets/57807780/86327865-5a4b-4156-8ac6-824775feee0d)<br />
 <br />
