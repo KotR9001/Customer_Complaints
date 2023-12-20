@@ -17,4 +17,4 @@ This is a project to demonstrate proficiency in Natural Language Processing (NLP
 ![image](https://github.com/KotR9001/Customer_Complaints/assets/57807780/ce2bd95e-bfc2-47d4-b2fe-892fde43718f)<br />
 <br />
 -Created a chart in Tableau to show the overlap between actual & predicted product labels.<br />
-![image](![image](https://github.com/KotR9001/Customer_Complaints/assets/57807780/9182b1f0-3aa4-42b7-8ec0-bde3275c4e53)
+![image](https://github.com/KotR9001/Customer_Complaints/assets/57807780/9182b1f0-3aa4-42b7-8ec0-bde3275c4e53)
