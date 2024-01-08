@@ -12,7 +12,7 @@ This is a project to demonstrate proficiency in Natural Language Processing (NLP
 -Performed machine learning with a Naïve Bayes model to generate label predictions.  <br>
 ![image](https://github.com/KotR9001/Customer_Complaints/assets/57807780/1b20f441-36d7-478d-8ade-3c19df206d92)<br />
 <br />
--Tested the accuracy of the model, and after obtaining a satisfactory R^2 score, wrote the output data with actual & predicted product labels to a CSV file.  <br>
+-Tested the accuracy of the model, and after obtaining a satisfactory accuracy score, wrote the output data with actual & predicted product labels to a CSV file.  <br>
 ![image](https://github.com/KotR9001/Customer_Complaints/assets/57807780/ff9e4ebc-9f27-4cb6-929a-b1804361cc73)<br />
 ![image](https://github.com/KotR9001/Customer_Complaints/assets/57807780/675307a8-ad51-4e25-8d0f-d21c6729d863)<br />
 ![image](https://github.com/KotR9001/Customer_Complaints/assets/57807780/ce2bd95e-bfc2-47d4-b2fe-892fde43718f)<br />
